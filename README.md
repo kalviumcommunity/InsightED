@@ -182,3 +182,39 @@ Activated Conda environment and launched Jupyter using `jupyter notebook`
 Verified Jupyter opened in browser without errors
 Navigated folders and accessed project directory correctly
 Created a new notebook, selected Python kernel, and executed a test cell successfully
+
+### **4.10 – Numeric & String Data Types**
+
+This milestone builds a foundation in Python by working with numeric and string data types. It covers arithmetic operations, string manipulation, and type conversions, helping prevent common errors and enabling you to write clear, predictable, and reliable code.
+
+---
+
+### **4.11 – Markdown in Jupyter Notebooks**
+
+This milestone focuses on using Markdown to document Jupyter Notebooks effectively. You will learn to structure content with headings, lists, and code formatting, making your notebooks clear, professional, and easy to understand for others and future use.
+
+---
+
+### **4.12 – Project Folder Structure**
+
+This milestone teaches how to organize Data Science projects using a clean folder structure. You will separate data, code, and outputs logically, ensuring better readability, easier collaboration, and maintainability as projects grow in complexity.
+
+---
+
+### **4.13 – Data Organization (Raw, Processed, Outputs)**
+
+This milestone focuses on organizing data across its lifecycle. You will separate raw, processed, and output data to avoid corruption, ensure reproducibility, and maintain clarity, building strong data management habits for reliable and auditable workflows.
+
+---
+
+### **4.14 – First Python Script**
+
+This milestone introduces creating and running Python scripts outside notebooks. You will write simple logic in a .py file, execute it, and understand script flow, enabling automation, reusability, and confidence in real-world coding environments.
+
+---
+
+### **4.15 – Lists, Tuples, Dictionaries**
+
+This milestone covers Python’s core data structures: lists, tuples, and dictionaries. You will learn how to store, access, and modify data efficiently, understand mutability, and choose the right structure for organizing real-world data effectively.
+
+---
