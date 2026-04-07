@@ -169,3 +169,10 @@ Data-driven education is not about tracking students; it's about giving every st
 ---
 
 *Project: InsightED | Submission: March 2026*
+
+
+## Environment Verification
+OS: Windows | Python: 3.12.10 | Conda: 25.11.1
+Python verified via terminal and REPL execution
+Conda verified with environment activation (base/ds_env)
+Jupyter Notebook launched successfully and executed a test cell
