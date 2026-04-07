@@ -176,3 +176,9 @@ OS: Windows | Python: 3.12.10 | Conda: 25.11.1
 Python verified via terminal and REPL execution
 Conda verified with environment activation (base/ds_env)
 Jupyter Notebook launched successfully and executed a test cell
+
+## Jupyter Notebook Setup & Navigation
+Activated Conda environment and launched Jupyter using `jupyter notebook`
+Verified Jupyter opened in browser without errors
+Navigated folders and accessed project directory correctly
+Created a new notebook, selected Python kernel, and executed a test cell successfully
